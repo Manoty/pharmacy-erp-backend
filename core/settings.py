@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-_70_0bau(46clz_d+km#45&67ufyk$men&u@rha#ke1vs=)#+i
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['pharmacy-erp-backend-7ljd.onrender.com']
 
 
 # Application definition
